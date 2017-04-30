@@ -44,7 +44,7 @@ public class PetCat extends Cat{
 - e) (i) speak() method
 - e) (ii)
 ```java
-The machine are rising
+The machines are rising
 I am your robot overlord
 The robot uprising has begun
 ```

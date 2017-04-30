@@ -58,13 +58,13 @@ The robot uprising has begun
 - a) (E) T
 - b)
 ```java
-class button2Listener implements ActionListener{
+class Button2Listener implements ActionListener{
   public void actionPerformed(ActionEvent e){
     button1.setText("Click me now!");
     frame.repaint();
   }
 }
-class button1Listener implements ActionListener{
+class Button1Listener implements ActionListener{
   public void actionPerformed(AcionEvent e){
     button2.setText("Don't click him again!");
     frame.repaint();
